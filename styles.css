@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Henny+Penny&display=swap');
+
+body {
+    background-color:#d6eeee
+}
+
+.main_text {
+    height:4vh;
+    display:flex;
+    justify-content:center;
+    align-items:cemter;
+     font-family: "DynaPuff", system-ui;
+     color:darkslategrey;
+     font-size: 18px;
+}
+
+.main_text2 {
+    height:20vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-family: "DynaPuff", system-ui;
+    color:darkslategrey;
+    font-size:18px;
+}
+
+.scarypart {
+    height:4vh;
+    display: flex;
+    justify-content:flex-end;
+    align-items:center;
+}
+
+#button1 {
+    position:absolute;
+    top:33px;
+    right:33px;
+    background-color: blueviolet;
+    width: 120px;
+    height: 40px;
+    font-family: "Henny Penny", system-ui;
+    font-size:25px
+}
+
+.img1 {
+    height:34vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.form {
+    height:22vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-family: "DynaPuff", system-ui;
+    color: darkcyan;
+    font-size:20px;
+}
+
+#button2 {
+    font-family:"DynaPuff", system-ui;
+    background-color:aquamarine
+}

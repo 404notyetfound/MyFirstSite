@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Henny+Penny&display=swap');
+
+body {
+    background-color:#a76316
+}
+.boo {
+    height:38vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-family: "Henny Penny", system-ui;
+    color:rgb(72, 26, 94);
+    font-size:200px;
+}
+
+.femboypic {
+    height:50vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin: 0 auto;
+}
+
+#button3 {
+    height:10vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color: blueviolet;
+    width: 240px;
+    height: 80px;
+    margin: 0 auto;
+    font-family: "DynaPuff", system-ui;
+    font-size:40px
+}
